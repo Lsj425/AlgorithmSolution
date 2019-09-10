@@ -1,10 +1,11 @@
 # AlgorithmSolution
-《剑指Offer》刷题记录
+《剑指Offer》刷题记录,使用Java实现
 
 ## 1、数据结构
 ### 1.1 LinkedList
-* [003-从尾到头打印链表](https://github.com/Lsj425/AlgorithmSolution/tree/master/03-%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8)
+* [03-从尾到头打印链表](https://github.com/Lsj425/AlgorithmSolution/tree/master/03-%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8)
 ### 1.2 Tree
+* [04-重建二叉树](https://github.com/Lsj425/AlgorithmSolution/tree/master/04-%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91)
 ### 1.3 Stack&&Queue
 ### 1.4 Heap
 ### 1.5 HashTable
