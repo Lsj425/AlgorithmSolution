@@ -15,6 +15,7 @@
 ### 2.1 斐波那契数列
 ### 2.2 搜索算法
 * [01-二维数组查找](https://github.com/Lsj425/AlgorithmSolution/tree/master/01-%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E6%9F%A5%E6%89%BE)
+* [06-旋转数组的最小数字](https://github.com/Lsj425/AlgorithmSolution/tree/master/06-%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%B0%8F%E6%95%B0%E5%AD%97)
 ### 2.3 全排列
 ### 2.4 动态规划
 ### 2.5 回溯
