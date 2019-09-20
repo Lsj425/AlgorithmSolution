@@ -13,7 +13,9 @@
 ### 1.6 图
 ## 2、具体算法
 ### 2.1 斐波那契数列
-* [07-斐波拉契数列](https://github.com/Lsj425/AlgorithmSolution/tree/master/07-%E6%96%90%E6%B3%A2%E6%8B%89%E5%A5%91%E6%95%B0%E5%88%97)
+* [07-斐波那契数列](https://github.com/Lsj425/AlgorithmSolution/tree/master/07-%E6%96%90%E6%B3%A2%E6%8B%89%E5%A5%91%E6%95%B0%E5%88%97)
+* [08-跳台阶](https://github.com/Lsj425/AlgorithmSolution/tree/master/08-%E8%B7%B3%E5%8F%B0%E9%98%B6)
+* [09-变态跳台阶](https://github.com/Lsj425/AlgorithmSolution/tree/master/09-%E5%8F%98%E6%80%81%E8%B7%B3%E5%8F%B0%E9%98%B6)
 ### 2.2 搜索算法
 * [01-二维数组查找](https://github.com/Lsj425/AlgorithmSolution/tree/master/01-%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E6%9F%A5%E6%89%BE)
 * [06-旋转数组的最小数字](https://github.com/Lsj425/AlgorithmSolution/tree/master/06-%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%B0%8F%E6%95%B0%E5%AD%97)
