@@ -6,8 +6,11 @@
 * [03-从尾到头打印链表](https://github.com/Lsj425/AlgorithmSolution/tree/master/03-%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8)
 * [14-链表中倒数第k个结点](https://github.com/Lsj425/AlgorithmSolution/tree/master/14-%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E7%BB%93%E7%82%B9)
 * [15-反转链表](https://github.com/Lsj425/AlgorithmSolution/tree/master/15-%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8)
+* [16-合并两个有序链表](https://github.com/Lsj425/AlgorithmSolution/tree/master/16-%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8)
 ### 1.2 Tree
 * [04-重建二叉树](https://github.com/Lsj425/AlgorithmSolution/tree/master/04-%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91)
+* [17-树的子结构](https://github.com/Lsj425/AlgorithmSolution/tree/master/17-%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84)
+* [18-二叉树的镜像](https://github.com/Lsj425/AlgorithmSolution/tree/master/18-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F)
 ### 1.3 Stack&&Queue
 * [05-用两个栈实现队列](https://github.com/Lsj425/AlgorithmSolution/tree/master/05-%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97)
 ### 1.4 Heap
