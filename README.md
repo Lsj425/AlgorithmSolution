@@ -11,6 +11,9 @@
 * [04-重建二叉树](https://github.com/Lsj425/AlgorithmSolution/tree/master/04-%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91)
 * [17-树的子结构](https://github.com/Lsj425/AlgorithmSolution/tree/master/17-%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84)
 * [18-二叉树的镜像](https://github.com/Lsj425/AlgorithmSolution/tree/master/18-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F)
+* [22-从上往下打印二叉树](https://github.com/Lsj425/AlgorithmSolution/tree/master/22-%E4%BB%8E%E4%B8%8A%E5%BE%80%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91)
+* [23-二叉搜索树的后序遍历序列](https://github.com/Lsj425/AlgorithmSolution/tree/master/23-%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97)
+* [24-二叉树中和为某一值的路径](https://github.com/Lsj425/AlgorithmSolution/tree/master/24-%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E5%92%8C%E4%B8%BA%E6%9F%90%E4%B8%80%E5%80%BC%E7%9A%84%E8%B7%AF%E5%BE%84)
 ### 1.3 Stack&&Queue
 * [05-用两个栈实现队列](https://github.com/Lsj425/AlgorithmSolution/tree/master/05-%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97)
 * [20-包含min函数的栈](https://github.com/Lsj425/AlgorithmSolution/tree/master/20-%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88)
