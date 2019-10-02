@@ -35,8 +35,10 @@
 ### 2.3 全排列
 * [27-字符串的排列](https://github.com/Lsj425/AlgorithmSolution/tree/master/27-%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97)
 ### 2.4 动态规划
+* [30-连续子数组的最大和](https://github.com/Lsj425/AlgorithmSolution/tree/master/30-%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C)
 ### 2.5 回溯
 ### 2.6 排序
+* [29-最小的K个数](https://github.com/Lsj425/AlgorithmSolution/tree/master/29-%E6%9C%80%E5%B0%8F%E7%9A%84K%E4%B8%AA%E6%95%B0)
 ### 2.7 位运算
 * [11-二进制中1的个数](https://github.com/Lsj425/AlgorithmSolution/tree/master/11-%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0)
 * [12-数值的整数次方](https://github.com/Lsj425/AlgorithmSolution/tree/master/12-%E6%95%B0%E5%80%BC%E7%9A%84%E6%95%B4%E6%95%B0%E6%AC%A1%E6%96%B9)
@@ -44,3 +46,4 @@
 * [02-替换空格](https://github.com/Lsj425/AlgorithmSolution/tree/master/02-%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC)
 * [13-调整数组顺序使奇数位于偶数前面](https://github.com/Lsj425/AlgorithmSolution/tree/master/13-%E8%B0%83%E6%95%B4%E6%95%B0%E7%BB%84%E9%A1%BA%E5%BA%8F%E4%BD%BF%E5%A5%87%E6%95%B0%E4%BD%8D%E4%BA%8E%E5%81%B6%E6%95%B0%E5%89%8D%E9%9D%A2)
 * [19-顺时针打印矩阵](https://github.com/Lsj425/AlgorithmSolution/tree/master/19-%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5)
+* [28-数组中出现次数超过一半的数字](https://github.com/Lsj425/AlgorithmSolution/tree/master/28-%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E8%B6%85%E8%BF%87%E4%B8%80%E5%8D%8A%E7%9A%84%E6%95%B0%E5%AD%97)
