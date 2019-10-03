@@ -47,3 +47,6 @@
 * [13-调整数组顺序使奇数位于偶数前面](https://github.com/Lsj425/AlgorithmSolution/tree/master/13-%E8%B0%83%E6%95%B4%E6%95%B0%E7%BB%84%E9%A1%BA%E5%BA%8F%E4%BD%BF%E5%A5%87%E6%95%B0%E4%BD%8D%E4%BA%8E%E5%81%B6%E6%95%B0%E5%89%8D%E9%9D%A2)
 * [19-顺时针打印矩阵](https://github.com/Lsj425/AlgorithmSolution/tree/master/19-%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5)
 * [28-数组中出现次数超过一半的数字](https://github.com/Lsj425/AlgorithmSolution/tree/master/28-%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E8%B6%85%E8%BF%87%E4%B8%80%E5%8D%8A%E7%9A%84%E6%95%B0%E5%AD%97)
+* [31-整数中1出现的次数（从1到n整数中1出现的次数）](https://github.com/Lsj425/AlgorithmSolution/tree/master/31-%E6%95%B4%E6%95%B0%E4%B8%AD1%E5%87%BA%E7%8E%B0%E7%9A%84%E6%AC%A1%E6%95%B0%EF%BC%88%E4%BB%8E1%E5%88%B0n%E6%95%B4%E6%95%B0%E4%B8%AD1%E5%87%BA%E7%8E%B0%E7%9A%84%E6%AC%A1%E6%95%B0%EF%BC%89)
+* [32-把数组排成最小的数](https://github.com/Lsj425/AlgorithmSolution/tree/master/32-%E6%8A%8A%E6%95%B0%E7%BB%84%E6%8E%92%E6%88%90%E6%9C%80%E5%B0%8F%E7%9A%84%E6%95%B0)
+* [33-丑数](https://github.com/Lsj425/AlgorithmSolution/tree/master/33-%E4%B8%91%E6%95%B0)
