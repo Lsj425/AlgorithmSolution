@@ -8,6 +8,7 @@
 * [15-反转链表](https://github.com/Lsj425/AlgorithmSolution/tree/master/15-%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8)
 * [16-合并两个有序链表](https://github.com/Lsj425/AlgorithmSolution/tree/master/16-%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8)
 * [25-复杂链表的复制](https://github.com/Lsj425/AlgorithmSolution/tree/master/25-%E5%A4%8D%E6%9D%82%E9%93%BE%E8%A1%A8%E7%9A%84%E5%A4%8D%E5%88%B6)
+* [36-两个链表的第一个公共结点](https://github.com/Lsj425/AlgorithmSolution/tree/master/36-%E4%B8%A4%E4%B8%AA%E9%93%BE%E8%A1%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%85%AC%E5%85%B1%E7%BB%93%E7%82%B9)
 ### 1.2 Tree
 * [04-重建二叉树](https://github.com/Lsj425/AlgorithmSolution/tree/master/04-%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91)
 * [17-树的子结构](https://github.com/Lsj425/AlgorithmSolution/tree/master/17-%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84)
@@ -22,6 +23,7 @@
 * [21-栈的压入、弹出序列](https://github.com/Lsj425/AlgorithmSolution/tree/master/21-%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%E3%80%81%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97)
 ### 1.4 Heap
 ### 1.5 HashTable
+* [34-第一个只出现一次的字符](https://github.com/Lsj425/AlgorithmSolution/tree/master/34-%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6)
 ### 1.6 图
 ## 2、具体算法
 ### 2.1 斐波那契数列
@@ -39,6 +41,7 @@
 ### 2.5 回溯
 ### 2.6 排序
 * [29-最小的K个数](https://github.com/Lsj425/AlgorithmSolution/tree/master/29-%E6%9C%80%E5%B0%8F%E7%9A%84K%E4%B8%AA%E6%95%B0)
+* [35-数组中的逆序对](https://github.com/Lsj425/AlgorithmSolution/tree/master/35-%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%80%86%E5%BA%8F%E5%AF%B9)
 ### 2.7 位运算
 * [11-二进制中1的个数](https://github.com/Lsj425/AlgorithmSolution/tree/master/11-%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0)
 * [12-数值的整数次方](https://github.com/Lsj425/AlgorithmSolution/tree/master/12-%E6%95%B0%E5%80%BC%E7%9A%84%E6%95%B4%E6%95%B0%E6%AC%A1%E6%96%B9)
