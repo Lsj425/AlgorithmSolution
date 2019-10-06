@@ -17,6 +17,8 @@
 * [23-二叉搜索树的后序遍历序列](https://github.com/Lsj425/AlgorithmSolution/tree/master/23-%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97)
 * [24-二叉树中和为某一值的路径](https://github.com/Lsj425/AlgorithmSolution/tree/master/24-%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E5%92%8C%E4%B8%BA%E6%9F%90%E4%B8%80%E5%80%BC%E7%9A%84%E8%B7%AF%E5%BE%84)
 * [26-二叉搜索树与双向链表](https://github.com/Lsj425/AlgorithmSolution/tree/master/26-%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%8E%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8)
+* [38-二叉树的深度](https://github.com/Lsj425/AlgorithmSolution/tree/master/38-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6)
+* [39-平衡二叉树](https://github.com/Lsj425/AlgorithmSolution/tree/master/39-%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91)
 ### 1.3 Stack&&Queue
 * [05-用两个栈实现队列](https://github.com/Lsj425/AlgorithmSolution/tree/master/05-%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97)
 * [20-包含min函数的栈](https://github.com/Lsj425/AlgorithmSolution/tree/master/20-%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88)
@@ -34,6 +36,7 @@
 ### 2.2 搜索算法
 * [01-二维数组查找](https://github.com/Lsj425/AlgorithmSolution/tree/master/01-%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E6%9F%A5%E6%89%BE)
 * [06-旋转数组的最小数字](https://github.com/Lsj425/AlgorithmSolution/tree/master/06-%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%B0%8F%E6%95%B0%E5%AD%97)
+* [37-数字在排序数组中出现的次数](https://github.com/Lsj425/AlgorithmSolution/tree/master/37-数字在排序数组中出现的次数)
 ### 2.3 全排列
 * [27-字符串的排列](https://github.com/Lsj425/AlgorithmSolution/tree/master/27-%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97)
 ### 2.4 动态规划
