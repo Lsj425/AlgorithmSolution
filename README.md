@@ -49,6 +49,7 @@
 * [11-二进制中1的个数](https://github.com/Lsj425/AlgorithmSolution/tree/master/11-%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0)
 * [12-数值的整数次方](https://github.com/Lsj425/AlgorithmSolution/tree/master/12-%E6%95%B0%E5%80%BC%E7%9A%84%E6%95%B4%E6%95%B0%E6%AC%A1%E6%96%B9)
 * [40-数组中只出现一次的数字](https://github.com/Lsj425/AlgorithmSolution/tree/master/40-%E6%95%B0%E7%BB%84%E4%B8%AD%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97)
+* [45-扑克牌顺子](https://github.com/Lsj425/AlgorithmSolution/tree/master/45-%E6%89%91%E5%85%8B%E7%89%8C%E9%A1%BA%E5%AD%90)
 ### 2.8 其它算法
 * [02-替换空格](https://github.com/Lsj425/AlgorithmSolution/tree/master/02-%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC)
 * [13-调整数组顺序使奇数位于偶数前面](https://github.com/Lsj425/AlgorithmSolution/tree/master/13-%E8%B0%83%E6%95%B4%E6%95%B0%E7%BB%84%E9%A1%BA%E5%BA%8F%E4%BD%BF%E5%A5%87%E6%95%B0%E4%BD%8D%E4%BA%8E%E5%81%B6%E6%95%B0%E5%89%8D%E9%9D%A2)
@@ -59,3 +60,5 @@
 * [33-丑数](https://github.com/Lsj425/AlgorithmSolution/tree/master/33-%E4%B8%91%E6%95%B0)
 * [41-和为S的连续正数序列](https://github.com/Lsj425/AlgorithmSolution/tree/master/41-%E5%92%8C%E4%B8%BAS%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%AD%A3%E6%95%B0%E5%BA%8F%E5%88%97)
 * [42-和为S的两个数字](https://github.com/Lsj425/AlgorithmSolution/tree/master/42-%E5%92%8C%E4%B8%BAS%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97)
+* [43-左旋转字符串](https://github.com/Lsj425/AlgorithmSolution/tree/master/43-%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2)
+* [44-翻转单词顺序列](https://github.com/Lsj425/AlgorithmSolution/tree/master/44-%E7%BF%BB%E8%BD%AC%E5%8D%95%E8%AF%8D%E9%A1%BA%E5%BA%8F%E5%88%97)
