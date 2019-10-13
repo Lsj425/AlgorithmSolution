@@ -65,3 +65,6 @@
 * [44-翻转单词顺序列](https://github.com/Lsj425/AlgorithmSolution/tree/master/44-%E7%BF%BB%E8%BD%AC%E5%8D%95%E8%AF%8D%E9%A1%BA%E5%BA%8F%E5%88%97)
 * [46-孩子们的游戏(圆圈中最后剩下的数)](https://github.com/Lsj425/AlgorithmSolution/tree/master/46-%E5%AD%A9%E5%AD%90%E4%BB%AC%E7%9A%84%E6%B8%B8%E6%88%8F(%E5%9C%86%E5%9C%88%E4%B8%AD%E6%9C%80%E5%90%8E%E5%89%A9%E4%B8%8B%E7%9A%84%E6%95%B0))
 * [47-求1+2+3+...+n](https://github.com/Lsj425/AlgorithmSolution/tree/master/47-%E6%B1%821%2B2%2B3%2B...%2Bn)
+* [49-把字符串转换成整数](https://github.com/Lsj425/AlgorithmSolution/tree/master/49-%E6%8A%8A%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%88%90%E6%95%B4%E6%95%B0)
+* [50-数组中重复的数字](https://github.com/Lsj425/AlgorithmSolution/tree/master/50-%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97)
+* [51-构建乘积数组](https://github.com/Lsj425/AlgorithmSolution/tree/master/51-%E6%9E%84%E5%BB%BA%E4%B9%98%E7%A7%AF%E6%95%B0%E7%BB%84)
