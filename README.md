@@ -9,6 +9,8 @@
 * [16-合并两个有序链表](https://github.com/Lsj425/AlgorithmSolution/tree/master/16-%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8)
 * [25-复杂链表的复制](https://github.com/Lsj425/AlgorithmSolution/tree/master/25-%E5%A4%8D%E6%9D%82%E9%93%BE%E8%A1%A8%E7%9A%84%E5%A4%8D%E5%88%B6)
 * [36-两个链表的第一个公共结点](https://github.com/Lsj425/AlgorithmSolution/tree/master/36-%E4%B8%A4%E4%B8%AA%E9%93%BE%E8%A1%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%85%AC%E5%85%B1%E7%BB%93%E7%82%B9)
+* [55-链表中环的入口结点](https://github.com/Lsj425/AlgorithmSolution/tree/master/55-%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%8E%AF%E7%9A%84%E5%85%A5%E5%8F%A3%E7%BB%93%E7%82%B9)
+* [56-删除链表中重复的结点](https://github.com/Lsj425/AlgorithmSolution/tree/master/56-%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E7%BB%93%E7%82%B9)
 ### 1.2 Tree
 * [04-重建二叉树](https://github.com/Lsj425/AlgorithmSolution/tree/master/04-%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91)
 * [17-树的子结构](https://github.com/Lsj425/AlgorithmSolution/tree/master/17-%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84)
@@ -19,6 +21,10 @@
 * [26-二叉搜索树与双向链表](https://github.com/Lsj425/AlgorithmSolution/tree/master/26-%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%8E%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8)
 * [38-二叉树的深度](https://github.com/Lsj425/AlgorithmSolution/tree/master/38-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6)
 * [39-平衡二叉树](https://github.com/Lsj425/AlgorithmSolution/tree/master/39-%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91)
+* [57-二叉树的下一个结点](https://github.com/Lsj425/AlgorithmSolution/tree/master/57-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E7%BB%93%E7%82%B9)
+* [58-对称的二叉树](https://github.com/Lsj425/AlgorithmSolution/tree/master/58-%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91)
+* [59-按之字形顺序打印二叉树](https://github.com/Lsj425/AlgorithmSolution/tree/master/59-%E6%8C%89%E4%B9%8B%E5%AD%97%E5%BD%A2%E9%A1%BA%E5%BA%8F%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91)
+* [60-把二叉树打印成多行](https://github.com/Lsj425/AlgorithmSolution/tree/master/60-%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%A0%91%E6%89%93%E5%8D%B0%E6%88%90%E5%A4%9A%E8%A1%8C)
 ### 1.3 Stack&&Queue
 * [05-用两个栈实现队列](https://github.com/Lsj425/AlgorithmSolution/tree/master/05-%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97)
 * [20-包含min函数的栈](https://github.com/Lsj425/AlgorithmSolution/tree/master/20-%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88)
