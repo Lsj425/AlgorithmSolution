@@ -29,6 +29,7 @@
 * [05-用两个栈实现队列](https://github.com/Lsj425/AlgorithmSolution/tree/master/05-%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97)
 * [20-包含min函数的栈](https://github.com/Lsj425/AlgorithmSolution/tree/master/20-%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88)
 * [21-栈的压入、弹出序列](https://github.com/Lsj425/AlgorithmSolution/tree/master/21-%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%E3%80%81%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97)
+* [64-滑动窗口的最大值](https://github.com/Lsj425/AlgorithmSolution/tree/master/64-%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC)
 ### 1.4 Heap
 ### 1.5 HashTable
 * [34-第一个只出现一次的字符](https://github.com/Lsj425/AlgorithmSolution/tree/master/34-%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6)
@@ -48,6 +49,8 @@
 ### 2.4 动态规划
 * [30-连续子数组的最大和](https://github.com/Lsj425/AlgorithmSolution/tree/master/30-%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C)
 ### 2.5 回溯
+* [65-矩阵中的路径](https://github.com/Lsj425/AlgorithmSolution/tree/master/65-%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E8%B7%AF%E5%BE%84)
+* [66-机器人的运动范围](https://github.com/Lsj425/AlgorithmSolution/tree/master/66-%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%BF%90%E5%8A%A8%E8%8C%83%E5%9B%B4)
 ### 2.6 排序
 * [29-最小的K个数](https://github.com/Lsj425/AlgorithmSolution/tree/master/29-%E6%9C%80%E5%B0%8F%E7%9A%84K%E4%B8%AA%E6%95%B0)
 * [35-数组中的逆序对](https://github.com/Lsj425/AlgorithmSolution/tree/master/35-%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%80%86%E5%BA%8F%E5%AF%B9)
